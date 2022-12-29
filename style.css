@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+
+div {
+    width: 1000px;
+    padding-left: 100px;
+}
+
+div img {
+    width: 50%;
+}
